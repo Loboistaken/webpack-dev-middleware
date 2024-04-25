@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "bjorn",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"makefile.makePath": "",
+		"editor.defaultFormatter": "ms-vscode.cpptools"
+	}
+}
